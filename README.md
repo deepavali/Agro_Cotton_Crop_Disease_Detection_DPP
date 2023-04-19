@@ -10,3 +10,5 @@ then after training open command prompt and run app.py then you will get a url t
 If you dont have test data So please visit above url to get the dataset where you will get train,validation and test dataset with four classes.
 
 Your model is trained wth train and validation dataset and you can test model with test dataset.
+
+It include the following folders/files: folders(cropenv,static,templates) files(app,cotton-disease,predicted_cotton_disease_model.h5,profile,readme,requirements)
